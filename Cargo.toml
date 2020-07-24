@@ -1,0 +1,9 @@
+[package]
+name = "lief-rs"
+version = "0.10.1"
+authors = ["thelumberjhack <5294889+thelumberjhack@users.noreply.github.com>"]
+edition = "2018"
+
+[build-dependencies]
+bindgen = "0.54.1"
+cmake = "0.1"
